@@ -1,0 +1,19 @@
+.text{
+  padding-right: 60px;
+  justify-content: center;
+  margin-right: 70px;
+}
+.img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body{
+  scroll-padding: 80px;
+}
+html{
+  scroll-padding: 80px;
+}
+.textarea{
+  justify-content: center;
+}
